@@ -48,13 +48,22 @@ Topics include:
 Highly Reccommend Course, Bruno is Awesome!
     👉 https://threejs-journey.com/
 
+Certificate of Completion
+
+<img width="786" height="602" alt="image" src="https://github.com/user-attachments/assets/21809bbf-e6cb-4d2d-851e-77daa22fca7a" />
+
+
 -------
 #### SoloLearn Courses
 - Practicing and Strengthening Fundamentals through program tracks.
 
 Completed Courses:
 - Introduction to CSS
-    
+
+Certificate of Completion
+
+<img width="691" height="490" alt="image" src="https://github.com/user-attachments/assets/dbff5599-da16-45c4-b26b-21309967f72e" />
+
 
 -------
 ## 🎯 Purpose of This Repository
