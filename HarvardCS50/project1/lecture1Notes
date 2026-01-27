@@ -1,0 +1,9 @@
+Notes on working with terminal to make C file executable
+
+- to do three distinct things: compile, name the output, and link a library.
+    ` clang lectureScript2_hello.c -o lectureScript2_hello -lcs50`
+    - clang: turns your C code into a runnable program.
+    - `-o lectureScript2_hello` Name the compiled program (produces new file)
+    - lcs50: link with library name cs50
+
+- before running script, make the file executable via `make filename`
