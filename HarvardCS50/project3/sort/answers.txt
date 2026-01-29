@@ -1,0 +1,16 @@
+Week 3 Sort Assignment Answers
+
+sort1 uses: Bubble Sort
+
+How do you know?: Showed strongest difference between input types especially if already optimized. 
+This showed to be best case scenario for already sorted systems. 
+
+sort2 uses: Merge Sort
+
+How do you know?: the real time diffences between 5000 v 50000 values was around 18 times which matches with O(n log n) the best
+
+sort3 uses: selection sort
+
+How do you know?: the real time difference between 5000 and 50000 values were not low enough to fall under merge sort big O 
+Additionally, the real time difference between the different inputs at the same number values was proven to be the same.
+
